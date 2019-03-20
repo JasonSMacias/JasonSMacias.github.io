@@ -1,3 +1,4 @@
 # JasonSMacias.github.io
-##Placeholder for future portfolio page.
-Coming soon.
+## A simple portfolio page to display my projects
+### Under Construction
+https://jasonsmacias.github.io/
