@@ -6,6 +6,10 @@ h1, .title {
   font-family: 'Source Code Pro', monospace;
 }
 
+#profile-photo {
+  padding: 15px 15px 0px 15px;
+}
+
 @media(min-width: 769px) {
 
   .ordered1 {
@@ -16,4 +20,12 @@ h1, .title {
     order: 2;
   }
   
+}
+
+@media(max-width: 769px) {
+
+  #profile-photo {
+    padding: 70px 70px 20px 70px;
+  }
+
 }
