@@ -5,3 +5,15 @@ body {
 h1, .title {
   font-family: 'Source Code Pro', monospace;
 }
+
+@media(min-width: 769px) {
+
+  .ordered1 {
+    order: 1;
+  }
+
+  .ordered2 {
+    order: 2;
+  }
+  
+}
